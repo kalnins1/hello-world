@@ -1,7 +1,19 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">  
+<title>Hello World!</title>
+<meta name="viewport" content="width-device-width,initial-scale=1">
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
 
-This repository is built step by step.
-Jauna rindina
+<h1>Hello world!</h1>
+<div><img src="img_hello_world.jpg" alt="Hello World from Space" style="width:100%;max-width:640px"></div>
+<p>This is the first file in my new Git Repo.</p>
+<p>This line is here to show how merging works.</p>
+<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
+</body>
+</html>
+![image](https://github.com/kalnins1/hello-world/assets/60596030/d9684366-da3e-4bac-9238-40323fd1024f)
